@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://entinakai.github.io/sitemap
+Sitemap: https://entinakai.github.io/app/sitemap
+Sitemap: https://entinakai.github.io/assets/sitemap
+Sitemap: https://entinakai.github.io/css/sitemap
+Sitemap: https://entinakai.github.io/includes/sitemap
+Sitemap: https://entinakai.github.io/item/sitemap
+Sitemap: https://entinakai.github.io/src/sitemap
